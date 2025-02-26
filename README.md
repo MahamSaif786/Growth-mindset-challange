@@ -8,7 +8,7 @@ Growth-Mindset-Challenge
 
 💻 How to Run Locally? To run this project on your local machine, follow these steps:
 
-sh Copy Edit git clone https://github.com/your-username/growth-mindset-app.git cd growth-mindset-app pip install -r requirements.txt streamlit run app.py 🌍 Live Demo 🔗 [Your Deployed App Link] (Replace with actual link)
+sh Copy Edit git clone https://github.com/your-username/growth-mindset-app.git cd growth-mindset-app pip install -r requirements.txt streamlit run app.py 🌍 Live Demo 🔗 [https://growth-mindset-challange-maham.streamlit.app/] 
 
 🔒 Important Note: 🚨 Keep your GitHub repository private – Do not share your source code. 📢 Only share your deployed app link in the WhatsApp group for evaluation.
 
